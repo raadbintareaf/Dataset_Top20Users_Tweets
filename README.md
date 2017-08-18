@@ -1,5 +1,5 @@
 # Dataset_Top20Users_Tweets
-
+(Raw View)
 This Dataset was gathered by crawling Twitter's REST API using the Python library tweepy 3.
 This dataset contains the tweets of the 20 most popular twitter users (with the most followers) whereby retweets are neglected. These accounts belong to public people, such as Katy Perry and Barack Obama, platforms, YouTube, Instagram, and television channels shows, e.g., CNN Breaking News and The Ellen Show. 
 
