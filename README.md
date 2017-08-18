@@ -1,12 +1,15 @@
 # Dataset_Top20Users_Tweets
-(Raw View)
-This Dataset was gathered by crawling Twitter's REST API using the Python library tweepy 3.
+--(Raw View)--
+
+-This Dataset was gathered by crawling Twitter's REST API using the Python library tweepy 3.
 This dataset contains the tweets of the 20 most popular twitter users (with the most followers) whereby retweets are neglected. These accounts belong to public people, such as Katy Perry and Barack Obama, platforms, YouTube, Instagram, and television channels shows, e.g., CNN Breaking News and The Ellen Show. 
 
-Consequently, the dataset contains a mix of relatively structured tweets, tweets written in a formal and informative manner, and completely unstructured tweets written in a colloquial style. Unfortunately, the geocoordinates were not available for these tweets.
+-Consequently, the dataset contains a mix of relatively structured tweets, tweets written in a formal and informative manner, and completely unstructured tweets written in a colloquial style. Unfortunately, the geocoordinates were not available for these tweets.
 
-This Dataset has been used to generate reserach paper under title "Machine Learning Techniques for Anomalies Detection in Post Arrays". 
+-This Dataset has been used to generate reserach paper under title "Machine Learning Techniques for Anomalies Detection in Post Arrays". 
 
+- Crawled attributes: Author (Twitter User), Content (Tweet), Date_Time, id (Twitter User ID),	language (Tweet Langugage), Number_of_Likes,	Number_of_Shares.
+ 
 
 Overall: 52543 tweets of top 20 users in twitter 
 
